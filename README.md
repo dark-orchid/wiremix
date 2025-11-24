@@ -1,33 +1,45 @@
 <div align="center">
   <img width="196" height="196" src="./docs/logo.png" />
-  <h1>Dark Orchid for {{replace}}</h1>
+  <h1>Dark Orchid for Wiremix</h1>
 
-  A {{replace}} Theme, that's purple.
+  A Wiremix Theme, that's purple.
 
   *If you like this project, consider giving it a ⭐ to show your support!*<br/>
   *It also helps others to discover it.*
 
-  [![Last Release Badge](https://img.shields.io/github/v/release/dark-orchid/{{replace}}?sort=semver&display_name=release&color=7300ff&labelColor=27272a)](../../releases/latest)
-  [![GitHub License Badge](https://img.shields.io/github/license/dark-orchid/{{replace}}?color=7300ff&labelColor=27272a)](./LICENSE)
+  [![Last Release Badge](https://img.shields.io/github/v/release/dark-orchid/wiremix?sort=semver&display_name=release&color=7300ff&labelColor=27272a)](../../releases/latest)
+  [![GitHub License Badge](https://img.shields.io/github/license/dark-orchid/wiremix?color=7300ff&labelColor=27272a)](./LICENSE)
   [![Contributions Welcomed Badge](https://img.shields.io/badge/contributions-welcomed-7300ff?labelColor=27272a)](#contributing)
   [![Sponsor Hint Badge](https://img.shields.io/badge/❤️-Sponsor_it-%23dc2626?style=flat&labelColor=27272a)](https://github.com/sponsors/simonkovtyk/)
 </div>
 
-![Dark Orchid {{replace}} Preview](./docs/preview.png)
+![Dark Orchid Wiremix Preview](./docs/preview.png)
 
 ## About
 The Dark Orchid Theme is a cohesive visual ecosystem built around the striking color purple.
 
 Centered on the rich Dark Orchid shade, it highlights purple's depth, creativity, and elegance. Through balanced contrasts and unified tones, the theme creates a bold yet harmonious aesthetic that stands out across any design.
 
-## Features
-{{replace}}
-
 ## Usage
-{{replace}}
 
-## Configuration
-{{replace}}
+### Theme
+
+1. Copy the content of the [theme file](./dark_orchid_theme.toml)
+2. Paste it into `~/.config/wiremix/wiremix.toml`
+3. Add the following code to your `config` file (`~/.config/wiremix/wiremix.toml`):
+```toml
+theme = "dark_orchid"
+```
+4. Enjoy
+
+### Charset
+1. Copy the content of the [charset file](./dark_orchid_charset.toml)
+2. Paste it into `~/.config/wiremix/wiremix.toml`
+3. Add the following code to your `config` file (`~/.config/wiremix/wiremix.toml`):
+```toml
+char_set = "dark_orchid"
+```
+4. Enjoy it twice
 
 ## License
 The MIT License (MIT) - Please have a look at the [LICENSE file](./LICENSE) for more details.
