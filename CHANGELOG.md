@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.1.0](https://github.com/dark-orchid/wiremix/compare/v1.0.0...v1.1.0) (2025-11-24)
+
+
+### Features
+
+* init ([ef2cb32](https://github.com/dark-orchid/wiremix/commit/ef2cb32b39e1c1a5b17f8047227149a89a37ad12))
+* init ([c39fc68](https://github.com/dark-orchid/wiremix/commit/c39fc68f5d562af9729520f76bc60773dd5b78dd))
+* init ([c39fc68](https://github.com/dark-orchid/wiremix/commit/c39fc68f5d562af9729520f76bc60773dd5b78dd))
+
 ## 1.0.0 (2025-11-24)
 
 
