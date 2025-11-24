@@ -1,0 +1,11 @@
+[char_sets.dark_orchid]
+inherit = "default"
+dropdown_border = "Rounded"
+help_border = "Rounded"
+dropdown_selector = " "
+volume_empty = "─"
+tab_marker_left = " "
+tab_marker_right = " "
+selector_top = " "
+selector_middle = "󰅂"
+selector_bottom = " "
