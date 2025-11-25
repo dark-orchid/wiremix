@@ -3,6 +3,7 @@ name: Deploy
 permissions:
   contents: write
   issues: write
+  releases: write
   pull-requests: write
 
 on:
